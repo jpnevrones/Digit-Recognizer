@@ -4,4 +4,4 @@ Digit Recognizer is a Kaggle based competition. In this competition, goal is to 
 ![Accuracy](/DIGITaCC.PNG)
 ![Layer visulization](/LAYERVISULIZATION.PNG)
 ![Prediction on Test dataset](/MODELPREDICTION.PNG)
-![Model Architecture](/png.PNG)
+![Model Architecture](/png.png)
